@@ -21,7 +21,7 @@ section{
   background: url(images/PicsArt_23-12-30_17-56-13-408_auto_custom.jpg)no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: Not fixed;
 }
 
 .main .content{
